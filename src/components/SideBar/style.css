@@ -1,0 +1,13 @@
+.sidebar {
+  top: 0;
+  width: 300px;
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: #1b262a;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset -2px 0 2px 0 rgba(0, 0, 0, 0.05);
+  position: relative;
+  transition: width 0.05s ease;
+  height: 100vh;
+}
